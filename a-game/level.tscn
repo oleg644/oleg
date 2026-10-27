@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://b7rjmcx7pr4n7"]
+
+[node name="level" type="Node2D" unique_id=1601273819]
+
+[node name="Label" type="Label" parent="." unique_id=341335883]
+offset_left = 166.0
+offset_top = 55.0
+offset_right = 783.0
+offset_bottom = 315.0
+text = "level"
